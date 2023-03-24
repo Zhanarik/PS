@@ -1,0 +1,436 @@
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data",
+  "eval_set": "test",
+  "predict_masks": true,
+  "gen_masks_path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data/predicted_rf",
+  "agg_to_water": [
+    "Mixed Water",
+    "Wakes",
+    "Cloud Shadows",
+    "Waves"
+  ]
+}
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data",
+  "eval_set": "test",
+  "predict_masks": true,
+  "gen_masks_path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data/predicted_rf",
+  "agg_to_water": [
+    "Mixed Water",
+    "Wakes",
+    "Cloud Shadows",
+    "Waves"
+  ]
+}
+root - INFO - Number of Input features: 14
+root - INFO - Train: 429412
+root - INFO - Test: 194863
+root - INFO - Started training
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data",
+  "eval_set": "test",
+  "predict_masks": true,
+  "gen_masks_path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data/predicted_rf",
+  "agg_to_water": [
+    "Mixed Water",
+    "Wakes",
+    "Cloud Shadows",
+    "Waves"
+  ]
+}
+root - INFO - Number of Input features: 14
+root - INFO - Train: 429412
+root - INFO - Test: 194863
+root - INFO - Started training
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data",
+  "eval_set": "test",
+  "predict_masks": true,
+  "gen_masks_path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data/predicted_rf",
+  "agg_to_water": [
+    "Mixed Water",
+    "Wakes",
+    "Cloud Shadows",
+    "Waves"
+  ]
+}
+root - INFO - Number of Input features: 14
+root - INFO - Train: 429412
+root - INFO - Test: 194863
+root - INFO - Started training
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data",
+  "eval_set": "test",
+  "predict_masks": true,
+  "gen_masks_path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data/predicted_rf",
+  "agg_to_water": [
+    "Mixed Water",
+    "Wakes",
+    "Cloud Shadows",
+    "Waves"
+  ]
+}
+root - INFO - Number of Input features: 14
+root - INFO - Train: 429412
+root - INFO - Test: 194863
+root - INFO - Started training
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data",
+  "eval_set": "test",
+  "predict_masks": true,
+  "gen_masks_path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data/predicted_rf",
+  "agg_to_water": [
+    "Mixed Water",
+    "Wakes",
+    "Cloud Shadows",
+    "Waves"
+  ]
+}
+root - INFO - Number of Input features: 14
+root - INFO - Train: 429412
+root - INFO - Test: 194863
+root - INFO - Started training
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data",
+  "eval_set": "test",
+  "predict_masks": true,
+  "gen_masks_path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data/predicted_rf",
+  "agg_to_water": [
+    "Mixed Water",
+    "Wakes",
+    "Cloud Shadows",
+    "Waves"
+  ]
+}
+root - INFO - Number of Input features: 14
+root - INFO - Train: 429412
+root - INFO - Test: 194863
+root - INFO - Started training
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data",
+  "eval_set": "test",
+  "predict_masks": true,
+  "gen_masks_path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data/predicted_rf",
+  "agg_to_water": [
+    "Mixed Water",
+    "Wakes",
+    "Cloud Shadows",
+    "Waves"
+  ]
+}
+root - INFO - Number of Input features: 14
+root - INFO - Train: 429412
+root - INFO - Test: 194863
+root - INFO - Started training
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data",
+  "eval_set": "test",
+  "predict_masks": true,
+  "gen_masks_path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data/predicted_rf",
+  "agg_to_water": [
+    "Mixed Water",
+    "Wakes",
+    "Cloud Shadows",
+    "Waves"
+  ]
+}
+root - INFO - Number of Input features: 14
+root - INFO - Train: 429412
+root - INFO - Test: 194863
+root - INFO - Started training
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data",
+  "eval_set": "test",
+  "predict_masks": true,
+  "gen_masks_path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data/predicted_rf",
+  "agg_to_water": [
+    "Mixed Water",
+    "Wakes",
+    "Cloud Shadows",
+    "Waves"
+  ]
+}
+root - INFO - Number of Input features: 14
+root - INFO - Train: 429412
+root - INFO - Test: 194863
+root - INFO - Started training
+root - INFO - Training finished after 1477.7756569385529 seconds
+root - INFO - Classifier is saved at: /Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/semantic_segmentation/gradient_boosting/gb_classifier.joblib
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data",
+  "eval_set": "test",
+  "predict_masks": true,
+  "gen_masks_path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data/predicted_rf",
+  "agg_to_water": [
+    "Mixed Water",
+    "Wakes",
+    "Cloud Shadows",
+    "Waves"
+  ]
+}
+root - INFO - Number of Input features: 14
+root - INFO - Train: 429412
+root - INFO - Test: 194863
+root - INFO - Started training
+root - INFO - Training finished after 1509.7724430561066 seconds
+root - INFO - Classifier is saved at: /Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/semantic_segmentation/gradient_boosting/gb_classifier.joblib
+root - INFO - Confusion Matrix:  
+                           Clouds Dense Sargassum   Foam Marine Debris Marine Water Natural Organic Material Sediment-Laden Water Shallow Water   Ship Sparse Sargassum Turbid Water        Sum Recall
+Clouds                    27057.0             7.0    9.0          20.0       5589.0                      7.0                  0.0          58.0   41.0             33.0         22.0    32843.0   0.82
+Dense Sargassum               1.0           635.0    0.0          41.0          0.0                      6.0                  0.0           0.0    1.0             76.0          0.0      760.0   0.84
+Foam                         34.0             0.0  124.0           3.0         30.0                      0.0                 43.0           0.0  134.0              0.0         19.0      387.0   0.32
+Marine Debris                10.0             0.0    1.0         295.0         66.0                      6.0                  0.0           0.0    3.0              0.0          0.0      381.0   0.77
+Marine Water               2254.0             0.0   22.0          59.0      25843.0                      2.0                  3.0         651.0   90.0             24.0       1671.0    30619.0   0.84
+Natural Organic Material      0.0             0.0    2.0          18.0          6.0                     20.0                  0.0           0.0    1.0              1.0          1.0       49.0   0.41
+Sediment-Laden Water          2.0             0.0    0.0        1126.0          0.0                      3.0              91865.0           7.0   10.0              4.0         20.0    93037.0   0.99
+Shallow Water                35.0             0.0    3.0           1.0        996.0                      0.0                  0.0         867.0    2.0              9.0        593.0     2506.0   0.35
+Ship                        208.0             0.0   43.0          79.0         84.0                      3.0                  6.0           3.0  706.0              1.0         41.0     1174.0    0.6
+Sparse Sargassum              0.0            41.0    4.0          21.0         22.0                     47.0                  0.0           0.0    0.0            746.0          0.0      881.0   0.85
+Turbid Water                  1.0             0.0    1.0           0.0        858.0                      0.0               1032.0         970.0    2.0              0.0      29362.0    32226.0   0.91
+Sum                       29602.0           683.0  209.0        1663.0      33494.0                     94.0              92949.0        2556.0  990.0            894.0      31729.0       mPA:    0.7
+IoU                          0.76            0.79   0.26          0.17         0.68                     0.16                 0.98          0.21   0.48             0.72         0.85      mIoU:   0.55
+Precision                    0.91            0.93   0.59          0.18         0.77                     0.21                 0.99          0.34   0.71             0.83         0.93        OA:   0.91
+F1-score                     0.87            0.88   0.42          0.29         0.81                     0.28                 0.99          0.34   0.65             0.84         0.92  F1-macro:   0.66
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data",
+  "eval_set": "test",
+  "predict_masks": true,
+  "gen_masks_path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data/predicted_rf",
+  "agg_to_water": [
+    "Mixed Water",
+    "Wakes",
+    "Cloud Shadows",
+    "Waves"
+  ]
+}
+root - INFO - Number of Input features: 14
+root - INFO - Train: 429412
+root - INFO - Test: 194863
+root - INFO - Started training
+root - INFO - Training finished after 1458.226845741272 seconds
+root - INFO - Classifier is saved at: /Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/semantic_segmentation/gradient_boosting/gb_classifier.joblib
+root - INFO - Confusion Matrix:  
+                           Clouds Dense Sargassum   Foam Marine Debris Marine Water Natural Organic Material Sediment-Laden Water Shallow Water   Ship Sparse Sargassum Turbid Water        Sum Recall
+Clouds                    27057.0             7.0    9.0          20.0       5589.0                      7.0                  0.0          58.0   41.0             33.0         22.0    32843.0   0.82
+Dense Sargassum               1.0           635.0    0.0          41.0          0.0                      6.0                  0.0           0.0    1.0             76.0          0.0      760.0   0.84
+Foam                         34.0             0.0  124.0           3.0         30.0                      0.0                 43.0           0.0  134.0              0.0         19.0      387.0   0.32
+Marine Debris                10.0             0.0    1.0         295.0         66.0                      6.0                  0.0           0.0    3.0              0.0          0.0      381.0   0.77
+Marine Water               2254.0             0.0   22.0          59.0      25843.0                      2.0                  3.0         651.0   90.0             24.0       1671.0    30619.0   0.84
+Natural Organic Material      0.0             0.0    2.0          18.0          6.0                     20.0                  0.0           0.0    1.0              1.0          1.0       49.0   0.41
+Sediment-Laden Water          2.0             0.0    0.0        1126.0          0.0                      3.0              91865.0           7.0   10.0              4.0         20.0    93037.0   0.99
+Shallow Water                35.0             0.0    3.0           1.0        996.0                      0.0                  0.0         867.0    2.0              9.0        593.0     2506.0   0.35
+Ship                        208.0             0.0   43.0          79.0         84.0                      3.0                  6.0           3.0  706.0              1.0         41.0     1174.0    0.6
+Sparse Sargassum              0.0            41.0    4.0          21.0         22.0                     47.0                  0.0           0.0    0.0            746.0          0.0      881.0   0.85
+Turbid Water                  1.0             0.0    1.0           0.0        858.0                      0.0               1032.0         970.0    2.0              0.0      29362.0    32226.0   0.91
+Sum                       29602.0           683.0  209.0        1663.0      33494.0                     94.0              92949.0        2556.0  990.0            894.0      31729.0       mPA:    0.7
+IoU                          0.76            0.79   0.26          0.17         0.68                     0.16                 0.98          0.21   0.48             0.72         0.85      mIoU:   0.55
+Precision                    0.91            0.93   0.59          0.18         0.77                     0.21                 0.99          0.34   0.71             0.83         0.93        OA:   0.91
+F1-score                     0.87            0.88   0.42          0.29         0.81                     0.28                 0.99          0.34   0.65             0.84         0.92  F1-macro:   0.66
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data",
+  "eval_set": "test",
+  "predict_masks": true,
+  "gen_masks_path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data/predicted_gb",
+  "agg_to_water": [
+    "Mixed Water",
+    "Wakes",
+    "Cloud Shadows",
+    "Waves"
+  ]
+}
+root - INFO - Number of Input features: 14
+root - INFO - Train: 429412
+root - INFO - Test: 194863
+root - INFO - Started training
+root - INFO - Training finished after 37.37190508842468 seconds
+root - INFO - Classifier is saved at: /Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/semantic_segmentation/gradient_boosting/gb_classifier.joblib
+root - INFO - Confusion Matrix:  
+                           Clouds Dense Sargassum   Foam Marine Debris Marine Water Natural Organic Material Sediment-Laden Water Shallow Water    Ship Sparse Sargassum Turbid Water        Sum Recall
+Clouds                    27766.0             0.0    0.0          16.0       4808.0                      0.0                  0.0           8.0   143.0             84.0         18.0    32843.0   0.85
+Dense Sargassum               0.0           707.0    0.0           0.0          0.0                      1.0                  0.0           0.0     0.0             52.0          0.0      760.0   0.93
+Foam                          8.0             0.0  118.0           3.0         21.0                      0.0                 20.0           1.0   216.0              0.0          0.0      387.0    0.3
+Marine Debris                 2.0             0.0    0.0         352.0         18.0                      7.0                  0.0           0.0     2.0              0.0          0.0      381.0   0.92
+Marine Water               3844.0             0.0   67.0          77.0      25361.0                      1.0                  0.0         292.0   102.0              3.0        872.0    30619.0   0.83
+Natural Organic Material      0.0             0.0    1.0          19.0          5.0                     22.0                  0.0           0.0     2.0              0.0          0.0       49.0   0.45
+Sediment-Laden Water          0.0             0.0    1.0           4.0         20.0                      0.0              93002.0           0.0    10.0              0.0          0.0    93037.0    1.0
+Shallow Water                10.0             0.0    1.0           0.0       1394.0                      4.0                  0.0         721.0     0.0              0.0        376.0     2506.0   0.29
+Ship                        128.0             0.0   45.0          51.0         95.0                      4.0                  0.0           0.0   840.0              1.0         10.0     1174.0   0.72
+Sparse Sargassum              0.0            34.0    0.0           5.0         15.0                     28.0                  0.0           0.0     0.0            799.0          0.0      881.0   0.91
+Turbid Water                 10.0             0.0   34.0           0.0       1638.0                      0.0                551.0        8104.0     0.0              0.0      21889.0    32226.0   0.68
+Sum                       31768.0           741.0  267.0         527.0      33375.0                     67.0              93573.0        9126.0  1315.0            939.0      23165.0       mPA:   0.72
+IoU                          0.75            0.89   0.22          0.63         0.66                     0.23                 0.99          0.07    0.51             0.78         0.65      mIoU:   0.58
+Precision                    0.87            0.95   0.44          0.67         0.76                     0.33                 0.99          0.08    0.64             0.85         0.94        OA:   0.88
+F1-score                     0.86            0.94   0.36          0.78         0.79                     0.38                  1.0          0.12    0.67             0.88         0.79  F1-macro:   0.69
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data",
+  "eval_set": "test",
+  "predict_masks": true,
+  "gen_masks_path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data/predicted_gb",
+  "agg_to_water": [
+    "Mixed Water",
+    "Wakes",
+    "Cloud Shadows",
+    "Waves"
+  ]
+}
+root - INFO - Number of Input features: 14
+root - INFO - Train: 429412
+root - INFO - Test: 194863
+root - INFO - Started training
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data",
+  "eval_set": "test",
+  "predict_masks": true,
+  "gen_masks_path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data/predicted_gb",
+  "agg_to_water": [
+    "Mixed Water",
+    "Wakes",
+    "Cloud Shadows",
+    "Waves"
+  ]
+}
+root - INFO - Number of Input features: 14
+root - INFO - Train: 429412
+root - INFO - Test: 194863
+root - INFO - Started training
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data",
+  "eval_set": "test",
+  "predict_masks": true,
+  "gen_masks_path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data/predicted_gb",
+  "agg_to_water": [
+    "Mixed Water",
+    "Wakes",
+    "Cloud Shadows",
+    "Waves"
+  ]
+}
+root - INFO - Number of Input features: 14
+root - INFO - Train: 429412
+root - INFO - Test: 194863
+root - INFO - Started training
+root - INFO - Training finished after 3396.7134170532227 seconds
+root - INFO - Classifier is saved at: /Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/semantic_segmentation/gradient_boosting/gb_classifier.joblib
+root - INFO - Confusion Matrix:  
+                           Clouds Dense Sargassum   Foam Marine Debris Marine Water Natural Organic Material Sediment-Laden Water Shallow Water    Ship Sparse Sargassum Turbid Water        Sum Recall
+Clouds                    27731.0             0.0   16.0          92.0       4505.0                     15.0                  0.0           3.0   285.0            186.0         10.0    32843.0   0.84
+Dense Sargassum               0.0           573.0    0.0          52.0          0.0                      3.0                 85.0           0.0     7.0             40.0          0.0      760.0   0.75
+Foam                          7.0             0.0  121.0          10.0         28.0                      0.0                 32.0           0.0   189.0              0.0          0.0      387.0   0.31
+Marine Debris                 8.0             0.0    4.0         280.0         64.0                      9.0                  0.0           0.0     6.0             10.0          0.0      381.0   0.73
+Marine Water               3972.0             0.0  117.0          59.0      25318.0                      7.0                  1.0         182.0   105.0             52.0        806.0    30619.0   0.83
+Natural Organic Material      0.0             3.0    2.0          17.0          7.0                     17.0                  0.0           0.0     3.0              0.0          0.0       49.0   0.35
+Sediment-Laden Water          0.0             0.0    6.0        1785.0         20.0                      0.0              91219.0           0.0     2.0              5.0          0.0    93037.0   0.98
+Shallow Water                30.0             0.0   60.0           6.0       1363.0                      1.0                  0.0         659.0     4.0             53.0        330.0     2506.0   0.26
+Ship                        124.0             0.0   62.0          49.0        102.0                     14.0                  2.0           0.0   812.0              1.0          8.0     1174.0   0.69
+Sparse Sargassum              0.0            38.0    0.0         102.0         17.0                     46.0                  1.0           0.0     0.0            677.0          0.0      881.0   0.77
+Turbid Water                 75.0             0.0   51.0           0.0       1696.0                     11.0                959.0        2308.0    10.0             22.0      27094.0    32226.0   0.84
+Sum                       31947.0           614.0  439.0        2452.0      33120.0                    123.0              92299.0        3152.0  1423.0           1046.0      28248.0       mPA:   0.67
+IoU                          0.75            0.72   0.17          0.11         0.66                     0.11                 0.97          0.13    0.45             0.54         0.81      mIoU:   0.49
+Precision                    0.87            0.93   0.28          0.11         0.76                     0.14                 0.99          0.21    0.57             0.65         0.96        OA:    0.9
+F1-score                     0.86            0.83   0.29           0.2         0.79                      0.2                 0.98          0.23    0.63              0.7          0.9  F1-macro:    0.6
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data",
+  "eval_set": "test",
+  "predict_masks": true,
+  "gen_masks_path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data/predicted_gb",
+  "agg_to_water": [
+    "Mixed Water",
+    "Wakes",
+    "Cloud Shadows",
+    "Waves"
+  ]
+}
+root - INFO - Number of Input features: 14
+root - INFO - Train: 429412
+root - INFO - Test: 194863
+root - INFO - Started training
+root - INFO - Training finished after 18943.644143104553 seconds
+root - INFO - Classifier is saved at: /Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/semantic_segmentation/gradient_boosting/gb_classifier.joblib
+root - INFO - Confusion Matrix:  
+                           Clouds Dense Sargassum     Foam Marine Debris Marine Water Natural Organic Material Sediment-Laden Water Shallow Water     Ship Sparse Sargassum Turbid Water        Sum Recall
+Clouds                     6361.0            49.0   7020.0         770.0      14376.0                    474.0                749.0         818.0   1319.0            520.0        387.0    32843.0   0.19
+Dense Sargassum               3.0           207.0    352.0           2.0         15.0                     82.0                 53.0           0.0      0.0             38.0          8.0      760.0   0.27
+Foam                          8.0             0.0    158.0          26.0         64.0                      0.0                 47.0           7.0     69.0              1.0          7.0      387.0   0.41
+Marine Debris                23.0             0.0     26.0         102.0         39.0                     85.0                 24.0           7.0     19.0             29.0         27.0      381.0   0.27
+Marine Water               3251.0             0.0   1325.0         881.0       6274.0                   5649.0                676.0        1778.0    509.0           9251.0       1025.0    30619.0    0.2
+Natural Organic Material     22.0             0.0      4.0           7.0          5.0                      5.0                  1.0           0.0      1.0              3.0          1.0       49.0    0.1
+Sediment-Laden Water       1389.0             0.0  39714.0        3509.0        154.0                     22.0              19255.0       24824.0   4159.0              7.0          4.0    93037.0   0.21
+Shallow Water               325.0             0.0     48.0          31.0        318.0                    249.0                 62.0         638.0      5.0            369.0        461.0     2506.0   0.25
+Ship                        140.0             3.0    227.0          80.0        282.0                     35.0                 55.0          17.0    275.0             25.0         35.0     1174.0   0.23
+Sparse Sargassum              3.0           129.0      7.0          19.0         22.0                    364.0                 28.0          11.0     17.0            228.0         53.0      881.0   0.26
+Turbid Water               1385.0             0.0   2819.0         139.0       6608.0                    377.0                138.0        3460.0   6007.0             70.0      11223.0    32226.0   0.35
+Sum                       12910.0           388.0  51700.0        5566.0      28157.0                   7342.0              21088.0       31560.0  12380.0          10541.0      13231.0       mPA:   0.25
+IoU                          0.16            0.22      0.0          0.02         0.12                      0.0                  0.2          0.02     0.02             0.02         0.33      mIoU:    0.1
+Precision                    0.49            0.53      0.0          0.02         0.22                      0.0                 0.91          0.02     0.02             0.02         0.85        OA:   0.23
+F1-score                     0.28            0.36     0.01          0.03         0.21                      0.0                 0.34          0.04     0.04             0.04         0.49  F1-macro:   0.17
+root - INFO - **********
+root - INFO - parsed input parameters:
+root - INFO - {
+  "path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data",
+  "eval_set": "test",
+  "predict_masks": true,
+  "gen_masks_path": "/Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/data/predicted_gb",
+  "agg_to_water": [
+    "Mixed Water",
+    "Wakes",
+    "Cloud Shadows",
+    "Waves"
+  ]
+}
+root - INFO - Number of Input features: 14
+root - INFO - Train: 429412
+root - INFO - Test: 194863
+root - INFO - Started training
+root - INFO - Training finished after 3491.8815388679504 seconds
+root - INFO - Classifier is saved at: /Users/zhanarorynbassar/Desktop/Thesis/Gradient Boosting/semantic_segmentation/gradient_boosting/gb_classifier.joblib
+root - INFO - Confusion Matrix:  
+                           Clouds Dense Sargassum   Foam Marine Debris Marine Water Natural Organic Material Sediment-Laden Water Shallow Water    Ship Sparse Sargassum Turbid Water        Sum Recall
+Clouds                    27731.0             0.0   16.0          92.0       4505.0                     15.0                  0.0           3.0   285.0            186.0         10.0    32843.0   0.84
+Dense Sargassum               0.0           573.0    0.0          52.0          0.0                      3.0                 85.0           0.0     7.0             40.0          0.0      760.0   0.75
+Foam                          7.0             0.0  121.0          10.0         28.0                      0.0                 32.0           0.0   189.0              0.0          0.0      387.0   0.31
+Marine Debris                 8.0             0.0    4.0         280.0         64.0                      9.0                  0.0           0.0     6.0             10.0          0.0      381.0   0.73
+Marine Water               3972.0             0.0  117.0          59.0      25318.0                      7.0                  1.0         182.0   105.0             52.0        806.0    30619.0   0.83
+Natural Organic Material      0.0             3.0    2.0          17.0          7.0                     17.0                  0.0           0.0     3.0              0.0          0.0       49.0   0.35
+Sediment-Laden Water          0.0             0.0    6.0        1785.0         20.0                      0.0              91219.0           0.0     2.0              5.0          0.0    93037.0   0.98
+Shallow Water                30.0             0.0   60.0           6.0       1363.0                      1.0                  0.0         659.0     4.0             53.0        330.0     2506.0   0.26
+Ship                        124.0             0.0   62.0          49.0        102.0                     14.0                  2.0           0.0   812.0              1.0          8.0     1174.0   0.69
+Sparse Sargassum              0.0            38.0    0.0         102.0         17.0                     46.0                  1.0           0.0     0.0            677.0          0.0      881.0   0.77
+Turbid Water                 75.0             0.0   51.0           0.0       1696.0                     11.0                959.0        2308.0    10.0             22.0      27094.0    32226.0   0.84
+Sum                       31947.0           614.0  439.0        2452.0      33120.0                    123.0              92299.0        3152.0  1423.0           1046.0      28248.0       mPA:   0.67
+IoU                          0.75            0.72   0.17          0.11         0.66                     0.11                 0.97          0.13    0.45             0.54         0.81      mIoU:   0.49
+Precision                    0.87            0.93   0.28          0.11         0.76                     0.14                 0.99          0.21    0.57             0.65         0.96        OA:    0.9
+F1-score                     0.86            0.83   0.29           0.2         0.79                      0.2                 0.98          0.23    0.63              0.7          0.9  F1-macro:    0.6
