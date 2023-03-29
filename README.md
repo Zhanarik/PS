@@ -8,5 +8,8 @@
  
  # Weakly Supervised Pixel-Level Semantic Segmentation
  ## Gradient Boosting 
- In the baseline setup a gradient boosting classifier was trained on Spectral Signatures, produced Spectral Indices (SI). Thus, this process requires the Spectral Signatures Extraction i.e., the data/dataset.h5 file. These extraction processes can be seen of opensource code of the paper https://github.com/marine-debris/marine-debris.github.io 
- 
+ A gradient boosting classifier was trained on Spectral Signatures, produced Spectral Indices (SI). Thus, this process requires the Spectral Signatures Extraction i.e., the data/dataset.h5 file. These extraction processes can be seen of opensource code of the paper https://github.com/marine-debris/marine-debris.github.io 
+
+Data preparation, processing and training processes can be seen from this table: 
+
+<img width="982" alt="Screen Shot 2023-03-30 at 00 22 58" src="https://user-images.githubusercontent.com/43060102/228632471-59ede486-025c-41e5-92c8-09db364955e7.png">
