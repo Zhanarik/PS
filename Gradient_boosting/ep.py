@@ -72,12 +72,66 @@ def indices(image):
 
         dst.update_tags(**tags)
 
+
+def spatial(image, sigma_min=1, sigma_max=16):
+    output_path = os.path.join(up(up(up(image))), 'spatial', '_'.join(os.path.basename(image).split('_')[:-1]))
+    output_image = os.path.join(output_path, os.path.basename(image).split('.')[0] + '_spatial.tif')
+    os.makedirs(output_path, exist_ok=True)
+
+    # Copy _conf.tif and _cl.tif for seamless integration with spectral_extraction.py
+    src_conf = os.path.abspath(image.split('.tif')[0] + '_conf.tif')
+    dst_conf = os.path.join(output_path, os.path.basename(image).split('.')[0] + '_conf.tif')
+    copyfile(src_conf, dst_conf)
+
+    src_cl = os.path.abspath(image.split('.tif')[0] + '_cl.tif')
+    dst_cl = os.path.join(output_path, os.path.basename(image).split('.')[0] + '_cl.tif')
+    copyfile(src_cl, dst_cl)
+
+    # Read metadata of the initial image
+    with rasterio.open(image, mode='r') as src:
+        tags = src.tags().copy()
+        meta = src.meta
+        dtype = src.read(1).dtype
+
+    # Update meta to reflect the number of layers
+    meta.update(count=20)
+
+    # Write it to stack
+    with rasterio.open(output_image, 'w', **meta) as dst:
+        with rasterio.open(image, mode='r') as src:
+            img = src.read((2, 3, 4)).astype(dtype).copy()
+
+            # From RGB Composite to Grayscale
+            img = np.moveaxis(img, [0, 1, 2], [2, 0, 1])
+            rgb_composite = img[:, :, [2, 1, 0]]
+            rgb_composite[rgb_composite < 0.0] = 0.0
+            rgb_composite[rgb_composite > 0.15] = 0.15
+            rgb_composite = (rgb_composite) / 0.15
+            gray = rgb2gray(rgb_composite)
+
+            features_func = partial(feature.multiscale_basic_features,
+                                    intensity=True, edges=True, texture=True,
+                                    sigma_min=sigma_min, sigma_max=sigma_max)
+            features_results = features_func(gray).astype(dtype)
+
+            for i in range(20):
+                dst.write_band(i + 1, features_results[:, :, i])
+
+        dst.update_tags(**tags)
+
+
 def main(options):
     patches = glob(os.path.join(options['path'], 'patches', '*/*.tif'))
     patches = [p for p in patches if ('_cl.tif' not in p) and ('_conf.tif' not in p)]
 
-    for image in tqdm(patches):
-        indices(image)
+    if options['type'] == 'indices':
+
+        for image in tqdm(patches):
+            indices(image)
+
+    elif options['type'] == 'spatial':
+
+        Parallel(n_jobs=options['n_jobs'])(delayed(spatial)(image, 1, 16) for image in tqdm(patches))
 
 if __name__ == "__main__":
 
